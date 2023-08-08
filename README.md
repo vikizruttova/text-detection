@@ -1,2 +1,1 @@
 # text-detection
-# text-detection
